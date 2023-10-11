@@ -1,4 +1,4 @@
-# LEDR
+# Location Privacy-Preserving Edge Demand Response (LEDR)
 Code and dataset for tackling location privacy-preserving edge demand response (LEDR) problem are presented here comprehensively and systematically.
 
 ## EDR-Dataset:
